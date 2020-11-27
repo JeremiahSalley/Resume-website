@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: #2D60CC;
+}
+
+#nav {
+    text-align: center;
+}
+
+
+#first-list{
+    display: inline;
+    list-style-type: none;
+}
+
+.soft {
+    text-align: center;
+}
+
+h2{
+    color: #2D60CC;
+}
